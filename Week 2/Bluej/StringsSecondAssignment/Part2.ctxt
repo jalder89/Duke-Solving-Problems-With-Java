@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Part2
+comment0.text=\n\ Write\ a\ description\ of\ class\ Part2\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=stringa\ stringb
+comment1.target=int\ howMany(java.lang.String,\ java.lang.String)
+comment1.text=\n\ 1.\ Create\ a\ new\ Java\ Class\ named\ Part2in\ the\ StringsSecondAssignments\ project.\n\ 2.\ Write\ the\ method\ named\ howMany\ that\ has\ two\ String\ parameters\ named\ stringa\ and\ stringb.\ \n\ This\ method\ returns\ an\ integer\ indicating\ how\ many\ times\ stringa\ appears\ in\ stringb,\ where\ each\ occurrence\ of\ stringa\ must\ not\ overlap\ with\ another\ occurrence\ of\ it.\ \n\ For\ example,\ the\ call\ howMany(\u201CGAA\u201D,\ \u201CATGAACGAATTGAATC\u201D)\ returns\ 3\ as\ GAA\ occurs\ 3\ times.\ \n\ The\ call\ howMany(\u201CAA\u201D,\ \u201CATAAAA\u201D)\ returns\ 2.\ Note\ that\ the\ AA\u2019s\ found\ cannot\ overlap.\n\ 3.Write\ the\ void\ method\ testHowMany\ has\ no\ parameters.\ Add\ code\ in\ here\ to\ call\ howMany\ with\ several\ examples\ and\ print\ the\ results.\ \n\ Think\ carefully\ about\ what\ types\ of\ examples\ would\ be\ good\ to\ test\ to\ make\ sure\ your\ method\ works\ correctly.\n
+comment2.params=
+comment2.target=void\ testHowMany()
+numComments=3

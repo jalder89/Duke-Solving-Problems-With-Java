@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Part1
+comment0.text=\n\ Write\ a\ description\ of\ class\ Part1\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=dna\ startIndex\ stopCodon
+comment1.target=int\ findStopCodon(java.lang.String,\ int,\ java.lang.String)
+comment2.params=dna
+comment2.target=java.lang.String\ findGene(java.lang.String)
+comment3.params=
+comment3.target=void\ testFindGene()
+comment3.text=\n\ 6.\ Write\ the\ void\ method\ testFindGene\ that\ has\ no\ parameters.\ You\ should\ create\ five\ DNA\ strings.\ \n\ The\ strings\ should\ have\ specific\ test\ cases\ such\ as\ DNA\ with\ no\ \u201CATG\u201D,\ DNA\ with\ \u201CATG\u201D\ and\ one\ valid\ stop\ codon,\ DNA\ with\ \u201CATG\u201D\ and\ multiple\ valid\ stop\ codons,\ \n\ DNA\ with\ \u201CATG\u201D\ and\ no\ valid\ stop\ codons.\ \n\ Think\ carefully\ about\ what\ would\ be\ good\ examples\ to\ test.\ For\ each\ DNA\ string\ you\ should\:\ \n\ \ \ \ \ \ Print\ the\ DNA\ string.\ \n\ \ \ \ \ \ Calculate\ the\ gene\ by\ sending\ this\ DNA\ string\ as\ an\ argument\ to\ findGene.\ \n\ \ \ \ \ \ If\ a\ gene\ exists\ following\ our\ algorithm\ above,\ then\ print\ the\ gene,\ otherwise\ print\ the\ empty\ string.\n
+comment4.params=dna
+comment4.target=void\ printAllGenes(java.lang.String)
+comment4.text=\ \ \n\ 7.\ Write\ the\ void\ method\ printAllGenes\ that\ has\ one\ String\ parameter\ dna,\ representing\ a\ string\ of\ DNA.\ \n\ In\ this\ method\ you\ should\ repeatedly\ find\ genes\ and\ print\ each\ one\ until\ there\ are\ no\ more\ genes.\ \n\ Hint\:\ remember\ you\ learned\ a\ while(true)\ loop\ and\ break.\n
+comment5.params=
+comment5.target=void\ testFindStopCodon()
+numComments=6

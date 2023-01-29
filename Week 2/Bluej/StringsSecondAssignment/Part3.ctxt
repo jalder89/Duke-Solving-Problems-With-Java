@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Part3
+comment0.text=\n\ Write\ a\ description\ of\ class\ Part3\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=dna\ startIndex\ stopCodon
+comment1.target=int\ findStopCodon(java.lang.String,\ int,\ java.lang.String)
+comment2.params=dna
+comment2.target=java.lang.String\ findGene(java.lang.String)
+comment3.params=dna
+comment3.target=void\ printAllGenes(java.lang.String)
+comment4.params=dna
+comment4.target=int\ countGenes(java.lang.String)
+comment4.text=\n\ 3.\ Write\ the\ method\ named\ countGenes\ that\ has\ a\ String\ parameter\ named\ dna\ representing\ a\ string\ of\ DNA.\ \n\ This\ method\ returns\ the\ number\ of\ genes\ found\ in\ dna.\ \n\ For\ example\ the\ call\ countGenes(\u201CATGTAAGATGCCCTAGT\u201D)\ returns\ 2,\ \n\ finding\ the\ gene\ ATGTAA\ first\ and\ then\ the\ gene\ ATGCCCTAG.\ \n\ Hint\:\ This\ is\ very\ similar\ to\ finding\ all\ genes\ and\ printing\ them,\ except\ that\ instead\ of\ printing\ all\ the\ genes\ you\ will\ count\ them.\n
+comment5.params=
+comment5.target=void\ testCountGenes()
+comment5.text=\ \n\ 4.\ Write\ the\ void\ method\ named\ testCountGenes\ that\ has\ no\ parameters.\n\ This\ method\ calls\ countGenes\ with\ many\ example\ strings\ and\ prints\ the\ result\ for\ each.\n\ You\ should\ create\ several\ examples\ with\ different\ numbers\ of\ genes\ to\ test\ your\ code.\n
+numComments=6
